@@ -41,7 +41,7 @@ void loop()
    } else {
        digitalWrite(Pin1, HIGH);
    }
-  delay(1000);
+  delay(2000);
   Blynk.run();
   timer.run();
 }
