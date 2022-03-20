@@ -9,8 +9,8 @@ int Pin1 = 13;
 char auth[] = "hN3ZdXhURen0vSlO8odthjEoB3na3IfU";
 
 BlynkTimer timer;
-char ssid[] = "ZTE";
-char pass[] = "Thiva@!1995";
+char ssid[] = "SSID";
+char pass[] = "Wifi-password";
 
 void myTimerEvent()
 {
